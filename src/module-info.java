@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author philoo
+ *
+ */
+module java {
+}
